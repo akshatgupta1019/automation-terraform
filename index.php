@@ -8,8 +8,8 @@ background-color:skyblue;
 }
 h1
 {
-color:purple;
-background-color:black;
+color:red;
+background-color:blue;
 color:white;
 padding:10px;
 margin:2em;
@@ -17,7 +17,8 @@ box-shadow:3px 3px 3px 3px yellow;
 }
 </style></head>
 <body>
-<h1>Welcome to My Page</h1>
+<h1>hey this is akshat! hope you are good<br> want to learn something about terraform?
+  </h1>
 <pre>
 <?php
 
